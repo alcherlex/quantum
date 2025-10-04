@@ -1,0 +1,19 @@
+# Entornos virtuales
+.venv/
+.venv*/
+.venv*/
+.quantumenv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Jupyter
+.ipynb_checkpoints/
